@@ -1,0 +1,24 @@
+* {
+  font-family: Verdana, Arial, sans-serif;
+  background-color: black;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+a {
+    text-align: center;
+    font-size: 16px;
+    font-weight: normal;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+.link {
+    text-align: center;
+}  
