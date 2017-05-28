@@ -1,6 +1,8 @@
 * {
   font-family: Verdana, Arial, sans-serif;
   background-color: black;
+  text-align: center;
+  image-orientation: center;
 }
 
 
@@ -21,4 +23,10 @@ a {
 
 .link {
     text-align: center;
-}  
+}
+
+.p2 {
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
